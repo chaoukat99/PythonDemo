@@ -13,4 +13,4 @@ age=15
 if age>18:
     print("Vous étes Adulte")
 else: 
-    print(" Vou etes Mineur Mineur ")
+    print(" Vous etes Mineur Mineur ")
